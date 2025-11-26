@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Supriya Mandal - Supriyo
 
-### Backend Engineer • Distributed Systems • Event-Driven Architectures  
+### Backend Engineer • Distributed Systems • Event-Driven Architectures • ML Researcher
 #### 📍 Bengaluru, India
 
 
@@ -20,6 +20,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otisz/Otisz/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Otisz/Otisz/output/github-snake.svg" />
 </picture>
+
+
 <!--
 **supriyo97/supriyo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
